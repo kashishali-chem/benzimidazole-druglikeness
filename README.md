@@ -33,9 +33,10 @@ The benzimidazole drugs sit in much the same range as the larger set, a little s
 - RDKit logP is a calculated estimate, while the reference set measures logD, so they are not the same quantity.
 
 ## Files
-- `benzimidazole_druglikeness.ipynb`: the full analysis
-- `benzimidazole_properties.csv`: calculated properties
-- `mw_plot.png`, `mw_logp.png`, `logp_vs_logd.png`: plots
+## Files
+- [benzimidazole_druglikeness.ipynb](benzimidazole_druglikeness.ipynb): the full analysis
+- [benzimidazole_properties.csv](benzimidazole_properties.csv): calculated properties
+- [mw_plot.png](mw_plot.png), [mw_logp.png](mw_logp.png), [logp_vs_logd.png](logp_vs_logd.png): plots
 
 ## Tools
 Python, RDKit, pandas, matplotlib, PubChemPy, Google Colab.
